@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.2402a991.css",
-    "main.js": "/React/static/js/main.898e3a1a.js",
-    "index.html": "/React/index.html",
-    "main.2402a991.css.map": "/React/static/css/main.2402a991.css.map",
-    "main.898e3a1a.js.map": "/React/static/js/main.898e3a1a.js.map"
+    "main.css": "/http//:NarminaKarimova.github.io/hw3_imdb/static/css/main.ec68f549.css",
+    "main.js": "/http//:NarminaKarimova.github.io/hw3_imdb/static/js/main.ad9b6e8d.js",
+    "static/media/Narmina.png": "/http//:NarminaKarimova.github.io/hw3_imdb/static/media/Narmina.8799afac1bc9819ae517.png",
+    "static/media/Nurhan.png": "/http//:NarminaKarimova.github.io/hw3_imdb/static/media/Nurhan.6d666328e92fe1d24449.png",
+    "static/media/Atlas.jpg": "/http//:NarminaKarimova.github.io/hw3_imdb/static/media/Atlas.30db27b8548820d74cd0.jpg",
+    "index.html": "/http//:NarminaKarimova.github.io/hw3_imdb/index.html",
+    "main.ec68f549.css.map": "/http//:NarminaKarimova.github.io/hw3_imdb/static/css/main.ec68f549.css.map",
+    "main.ad9b6e8d.js.map": "/http//:NarminaKarimova.github.io/hw3_imdb/static/js/main.ad9b6e8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2402a991.css",
-    "static/js/main.898e3a1a.js"
+    "static/css/main.ec68f549.css",
+    "static/js/main.ad9b6e8d.js"
   ]
 }
